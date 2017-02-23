@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PrayerTimeAlarm</string>
+    <string name="action_settings">About</string>
+    <string name="Debinfo">Prayer Time Alarm is an Android Apps that takes Alarm in Five Prayer Time. The Alarm will be start at the begening of two Prayer(Fazar and Magrib) time and  Zuhor start at 12.45 pm and next two Prayer (Asar,Easha) time will be start after 15 minute from the begening Time.Fazar and Magrib alarm start due time because it can be effect in Ramadan. </string>
+    <string name="title_activity_displayactivity">PrayerTimeAlarm</string>
+    <string name="title_activity_launching">Alarm! Alarm!!......</string>
+    <string name="start_text">Start Alarm</string>
+    <string name="cancel_text">Cancel Alarm</string>
+    <string name="title_activity_developer">Developre Info.</string>
+    <string name="title_activity_alarm_notification">AlarmNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select">SelectActivity</string>
+
+</resources>
